@@ -18,3 +18,7 @@ is retrieving from.
 to loop over the array values which we have added. Create a drop-down list and
 access values from service. Use ngIf to hide the table unless you add the values in the
 array. Show only if the length of an array is > 0
+
+## Output
+
+Program output is captured in file Screenshot_output.png
